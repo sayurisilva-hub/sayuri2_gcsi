@@ -1,6 +1,6 @@
 # Nome do Seu Projeto
 
-Projeto desenvolvido em semestre anterior — Disciplina: [Nome da Disciplina]
+Projeto desenvolvido em semestre anterior — Disciplina: GCSI
 
 ## Descrição
 Breve descrição do que o projeto faz.
